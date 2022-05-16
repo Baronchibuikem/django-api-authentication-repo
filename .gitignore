@@ -1,0 +1,8 @@
+venv/
+Dockerfile
+docker-compose.yml
+pytest.ini
+pyproject.toml
+db.sqlite
+__pycache__
+migrations
